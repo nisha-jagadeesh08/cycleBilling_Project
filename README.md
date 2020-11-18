@@ -1,6 +1,7 @@
 # cycleBilling [Pricing Module]
-The module to be developed is a pricing engine for a cycle. A cycle can be thought of as high level components -
+The module developed is a pricing engine for a cycle.
 
+A cycle can be thought of as high level components -
 frame, 
 handle bar with brakes, 
 seating, 
