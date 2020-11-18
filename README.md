@@ -15,4 +15,14 @@ Unit testing using Junit.
 
 Calculates Pricing for 1000 cycles using multithread and blocking queue using a maximum of 10 thread
 
-Refer to class diagram of above project in : "Cycle_ClassDiagram.png"
+Refer to "Design Document.docx" under master branch to get insight on the project implementation.
+Refer to class diagram of above project in master branch : "Cycle_ClassDiagram.png"
+
+Execution Details:
+==================
+1. Execute main() under src\com\PriceEngine\CycleScenario\ThreadImplemetation - to observe output of multi-thread implementation.
+2. Execute method in src\com\PriceEngine\CycleScenario\CycleImplementationTest class - for performing unit testing using Junit 
+
+On a side note, I would recommend running the Thread implementation part in IntelliJ IDEA as the project was implemented using IntelliJ IDEA,
+I have defined colors  to identify different threads in the Main Class of Thread implementation as it is supported by IntelliJ IDEA.
+Kindly ignore the constant if executed in a different IDE.
