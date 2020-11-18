@@ -14,3 +14,5 @@ The pricing module should calculates the price of the cycle given its configurat
 Unit testing using Junit.
 
 Calculates Pricing for 1000 cycles using multithread and blocking queue using a maximum of 10 thread
+
+Refer to class diagram of above project: <img src = "images/Cycle_ClassDiagram.png">
